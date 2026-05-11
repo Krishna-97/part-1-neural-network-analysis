@@ -1,1 +1,4 @@
-
+Experiment,Architecture,LR,Batch,Activation,Accuracy
+Deep Network,"[32, 16, 8]",0.001,32,relu,0.9850
+High Learning Rate,[16],0.1,64,relu,0.9750
+Large Batch / Tanh,[16],0.001,128,tanh,0.9850
